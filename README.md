@@ -1,15 +1,25 @@
+# UnityCorner Blog
+<br>
 
-## Technologies Used
-1. HTML5
-2. CSS3
+## Technology<br>
+PHP, HTML, CSS<br>
+==> Web Server :  Apache XAMPP <br>
+==> Database : MySQL <br>
 
+## Features for Users  <br>
+1 => Explore different categories of foods<br>
+2 => Search by category or food<br>
+3 => Order food<br>
 
-## Pages on this Complete Free Template
-1. **index.html** - Home Page (Search Food, Some Categories, Featured Foods, Social Media link)
-2. **categories.html** - List all Categories on Single Page
-3. **foods.html** - List all foods on a single page
-4. **order.html** - Page to Order Selected Food
-5. **category_foods.html** - Page to list all the Foods based on Category Selected
-6. **food_search.html** - Page to list all the Foods based on Search keyword
+## Features for Admin  <br>
+1 => Login/Logout functionality<br>
+2 => Dashboard displaying number of categories, foods, orders, and total revenue<br>
+3 => Manage Admin: Add, update, delete, and change password<br>
+4 => Manage Category: Add, update, delete, toggle active and featured status<br>
+5 => Manage Food: Add, update, delete, toggle active and featured statuss<br>
+6 => Manage Order: View user details and update order status<br>
 
-
+## Key Learnings <br>
+1 => Used session management in PHP<br>
+2 => Ensured encryption of sensitive data like passwords before storing in the database<br>
+3 => Implemented preventive measures for SQL injection attacks<br>
